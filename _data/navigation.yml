@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "Products Experience"
     url: /publications/
 
-  - title: "Tutorials"
-    url: /tutorials/    
+  # - title: "Tutorials"
+  #   url: /tutorials/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -17,11 +17,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Portfolio"
+  - title: "Tutorials"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
