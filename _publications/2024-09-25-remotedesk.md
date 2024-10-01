@@ -1,5 +1,5 @@
 ---
-title: "Remote Desktop Architectural Design & Details"
+title: "Comprehensive Remote Desktop Architecture Overview"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-25-remote-desk
