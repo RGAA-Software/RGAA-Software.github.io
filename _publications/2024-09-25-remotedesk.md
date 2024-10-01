@@ -1,9 +1,9 @@
 ---
-title: "GammaRay Architectural Design & Details"
+title: "Remote Desktop Architectural Design & Details"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-25-gammaray
-excerpt: 'This article discusses the technical details of GammaRay(A TeamViewer/Nvidia Gamestream like software), including architectural design, problem resolution, features, and more.'
+permalink: /publication/2024-09-25-remote-desk
+excerpt: 'This article discusses the technical details of Remote Desktop(A TeamViewer like software), including architectural design, problem resolution, features, and more.'
 date: 2024-09-25
 venue: 'Ji.Nan'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
