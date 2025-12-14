@@ -1,3 +1,28 @@
 site_name: GoDesk Docs
 theme:
     name: 'material'
+
+plugins:
+  - search
+
+  - i18n:
+      docs_structure: folder   # 改成 folders，按文件夹区分语言
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+
+        - locale: zh
+          name: 简体中文
+          build: true
+          nav_translations: # 导航栏翻译，不可以有缩进
+            HOME: 首页
+            Manager Server Config: 管理服务端配置
+
+nav:
+  - HOME: index.md
+  - Manager Server Config: manager-env.md
