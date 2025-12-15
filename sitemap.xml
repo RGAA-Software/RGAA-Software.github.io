@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>http://godesk.uk/document/</loc>
+        <loc>None./</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="http://godesk.uk/document/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="http://godesk.uk/document/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
     </url>
     <url>
-        <loc>http://godesk.uk/document/manager-env/</loc>
+        <loc>Nonemanager-env/</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="http://godesk.uk/document/manager-env/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="http://godesk.uk/document/zh/manager-env/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager-env/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager-env/"/>
     </url>
     <url>
-        <loc>http://godesk.uk/document/zh/</loc>
+        <loc>Nonezh/</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="http://godesk.uk/document/zh/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="http://godesk.uk/document/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
     </url>
     <url>
-        <loc>http://godesk.uk/document/zh/manager-env/</loc>
+        <loc>Nonezh/manager-env/</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="http://godesk.uk/document/zh/manager-env/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="http://godesk.uk/document/manager-env/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager-env/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager-env/"/>
     </url>
 </urlset>
