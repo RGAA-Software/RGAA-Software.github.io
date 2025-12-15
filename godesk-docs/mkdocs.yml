@@ -1,6 +1,8 @@
 site_name: GoDesk Docs
 theme:
     name: 'material'
+    icon:
+        repo: fontawesome/brands/github
 
 plugins:
   - search
@@ -8,8 +10,8 @@ plugins:
   - i18n:
       docs_structure: folder   # 改成 folder，按文件夹区分语言
       fallback_to_default: true
-      reconfigure_material: true
-      reconfigure_search: true
+      #reconfigure_material: true
+      #reconfigure_search: true
       languages:
         - locale: en
           name: English
@@ -26,3 +28,13 @@ plugins:
 nav:
   - HOME: index.md
   - Manager Server Config: manager-env.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/globe
+      link: http://godesk.uk
+      name: Offical Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/rgaa-software/gammaray
+      name: Github
