@@ -6,7 +6,7 @@ plugins:
   - search
 
   - i18n:
-      docs_structure: folder   # 改成 folders，按文件夹区分语言
+      docs_structure: folder   # 改成 folder，按文件夹区分语言
       fallback_to_default: true
       reconfigure_material: true
       reconfigure_search: true
