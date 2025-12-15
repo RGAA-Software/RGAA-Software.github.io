@@ -1,4 +1,7 @@
 site_name: GoDesk Docs
+site_url: http://godesk.uk/document/
+site_dir: site
+
 theme:
     name: 'material'
     icon:
@@ -10,8 +13,8 @@ plugins:
   - i18n:
       docs_structure: folder   # 改成 folder，按文件夹区分语言
       fallback_to_default: true
-      #reconfigure_material: true
-      #reconfigure_search: true
+      reconfigure_material: true
+      reconfigure_search: true
       languages:
         - locale: en
           name: English
@@ -21,6 +24,7 @@ plugins:
         - locale: zh
           name: 简体中文
           build: true
+
           nav_translations: # 导航栏翻译，不可以有缩进
             HOME: 首页
             Manager Server Config: 管理服务端配置
