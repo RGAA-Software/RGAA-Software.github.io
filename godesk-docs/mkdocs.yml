@@ -1,5 +1,5 @@
 site_name: GoDesk Docs
-site_url: http://godesk.uk/document/
+#site_url: http://godesk.uk/document/
 site_dir: site
 
 theme:
@@ -28,10 +28,12 @@ plugins:
           nav_translations: # 导航栏翻译，不可以有缩进
             HOME: 首页
             Manager Server Config: 管理服务端配置
+            Connect Directly: 直连使用
 
 nav:
   - HOME: index.md
   - Manager Server Config: manager-env.md
+  - Connect Directly
 
 extra:
   generator: false
