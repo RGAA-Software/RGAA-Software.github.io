@@ -1,5 +1,5 @@
 site_name: GoDesk Docs
-#site_url: http://godesk.uk/document/
+site_url: http://godesk.uk/document/
 site_dir: site
 
 theme:
