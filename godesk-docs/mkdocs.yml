@@ -28,12 +28,22 @@ plugins:
           nav_translations: # 导航栏翻译，不可以有缩进
             HOME: 首页
             Manager Server Config: 管理服务端配置
+            Client Config: 客户端配置
             Connect Directly: 直连使用
+            Connect By Info: 使用连接信息
+            Indicator Status: 指示与状态
+            Statistics: 统计信息
+            I Can't See Pictures?: 无法看到画面?
 
 nav:
   - HOME: index.md
   - Manager Server Config: manager-env.md
-  - Connect Directly
+  - Client Config: client-config.md
+  - Connect Directly: connect-directly.md
+  - Connect By Info: use-connect-info.md
+  - Indicator Status: indicator.md
+  - Statistics: statistics.md
+  - I Can't See Pictures?: no-pictures.md 
 
 extra:
   generator: false
