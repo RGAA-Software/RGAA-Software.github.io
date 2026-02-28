@@ -1,8 +1,25 @@
 ## Welcome to GoDesk Docs
 
-> Visit our official site [godesk.uk](http://www.godesk.uk) if you needed.
+> For more information, please visit [Official Website](http://www.godesk.uk).
 
 #### 1. About Product
-> Stream your game fame and desktop to other devices, and replay gamepad,keyboard,mouse events on the host PC. In a word, It's a alternative of TeamViewer, ToDesk, RustDesk, etc.
+> Remote operation of computers, cloud gaming, emulator gamepad, similar to ToDesk, Sunflower, RustDesk, TeamViewer tools
 
-#### 2. 
+#### 2. Software Status
+✅ Ready  
+⏳ In Development
+
+| Platform | Controller | Controlled |
+|----------|-----------|------------|
+| Windows  | ✅         | ✅          |
+| Android  | ✅         | ⏳          |
+
+#### 3. CMS Backend
+
+| Platform | Status |
+|----------|--------|
+| Windows  | ✅      |
+| Linux    | ✅      |
+
+#### 4. License
+> Free for personal use, do not use for commercial purposes without permission. If you have commercial needs, please contact us.
