@@ -1,4 +1,5 @@
 #### 1. Copy Remote Connection Info
+##### Attention: You MUST install Manager first
 > You can copy connection info from 2 places, the content is the same
 ##### 1.1 Copy from Remote Client
 ![](assets/manager_1.png)

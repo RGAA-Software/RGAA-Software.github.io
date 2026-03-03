@@ -21,5 +21,11 @@
 | Windows  | ✅      |
 | Linux    | ✅      |
 
-#### 4. License
+#### 4. Work Mode
+##### 4.1 Connect Directly
+![](./assets/work_directly.png)
+##### 4.2 Connect By Manager + Connect Directly
+![](./assets/work_relay.png)
+
+#### 5. License
 > Free for personal use, do not use for commercial purposes without permission. If you have commercial needs, please contact us.
