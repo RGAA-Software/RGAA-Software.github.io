@@ -15,7 +15,13 @@
 ##### 2.2 UBUNTU Linux Platform
 > Install according to [Official Documentation](https://www.mongodb.com/zh-cn/docs/v8.0/tutorial/install-mongodb-on-ubuntu/)
 
-#### 3. Start GoDeskServer
+#### 3. Need to be allowed Ports of Manager
+If you deployed in cloud server
+> TCP端口: 30499, 30500, 30502  
+> UDP端口: 30501(options)
+
+
+#### 4. Start GoDeskServer
 > After installing GoDeskServer_xxx, simply start it
 
 ![](assets/cms_panel.png)

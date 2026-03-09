@@ -15,7 +15,12 @@
 ##### 2.2 UBUNTU Linux平台
 > 根据[官方说明](https://www.mongodb.com/zh-cn/docs/v8.0/tutorial/install-mongodb-on-ubuntu/)安装
 
-#### 3. 启动GoDeskServer
+#### 3. Manager需要开放的端口
+云服务部署需要放行的端口
+> TCP端口: 30499, 30500, 30502  
+> UDP端口: 30501(可选)
+
+#### 4. 启动GoDeskServer
 > 安装GoDeskServer_xxx后，启动即可
 
 ![](../assets/cms_panel.png)

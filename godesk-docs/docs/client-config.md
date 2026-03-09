@@ -1,5 +1,6 @@
 #### 1. Install/Upgrade Client
-> Simply double-click to install/upgrade
+> Simply double-click to install/upgrade  
+> Be Allowed Ports TCP: 20369, 20370, 20371
 
 #### 2. Configure Management Backend Service
 ##### 2.1 Open Backend
