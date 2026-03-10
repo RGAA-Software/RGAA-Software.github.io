@@ -22,9 +22,12 @@
 | Linux    | ✅      |
 
 #### 4. Work Mode
-##### 4.1 Connect Directly
+##### 4.1 Connect Directly, just installing the GoDesk in every peers, no GoDeskServer needed.
 ![](./assets/work_directly.png)
 ##### 4.2 Connect By Manager + Connect Directly
+> 1. Install the GoDeskServer and make sure that every peers could access the server.  
+> 2. Install the GoDesk in every peers.
+> 3. Config the GoDesk.  
 ![](./assets/work_relay.png)
 
 #### 5. License
