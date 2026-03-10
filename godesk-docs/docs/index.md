@@ -31,4 +31,6 @@
 ![](./assets/work_relay.png)
 
 #### 5. License
-> Free for personal use, do not use for commercial purposes without permission. If you have commercial needs, please contact us.
+> Free for personal use, do not use for commercial purposes without permission. If you have commercial needs, please contact us.  
+> [Visit Our Official Site](https://www.godesk.uk)  
+> Send Us Email: godesk-sales@outlook.com

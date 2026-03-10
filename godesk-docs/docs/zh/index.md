@@ -32,4 +32,6 @@
 ![](../assets/work_relay.png)
 
 #### 5. 授权
-> 个人免费使用，请勿私自商用，如有商用需求，请联系我们。
+> 个人免费使用，请勿私自商用，如有商用需求，请联系我们。   
+> [访问官网](https://www.godesk.uk)  
+> 发送邮件: godesk-sales@outlook.com
