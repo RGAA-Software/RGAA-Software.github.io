@@ -1,5 +1,5 @@
 #### 1. Direct Connection
-##### Attention: You can only use Godesk without the manager
+##### Attention: You can only use Godesk without the manager，so you shouldn't install MongoDB, Redis.
 > When using direct connection, first ensure your machine can directly connect to the remote machine over the network  
 > 1. Your machine and the remote machine are on the same network  
 > 2. The remote machine is on the public network

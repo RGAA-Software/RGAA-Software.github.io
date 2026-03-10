@@ -1,6 +1,6 @@
 #### 1. Copy Remote Connection Info
-##### Attention: You MUST install Manager first
-> You can copy connection info from 2 places, the content is the same
+##### Attention: You MUST install Manager Server first, please see [HERE](./manager-env.md) to prepare environment.
+> You can copy connection info from 2 places, the content will be the same one.
 ##### 1.1 Copy from Remote Client
 ![](assets/manager_1.png)
 
